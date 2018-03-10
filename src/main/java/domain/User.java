@@ -8,6 +8,7 @@ public class User {
     private String password;
     private Integer count;
     private Timestamp lastLoginTime;
+    private Double salary;
 
     public User() {
     }
